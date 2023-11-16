@@ -1,2 +1,2 @@
 # Jeff
-The first game made on InJam Estonia 2023.
+The first game we made on InJam Estonia 2023.
